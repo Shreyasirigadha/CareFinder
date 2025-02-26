@@ -1,18 +1,16 @@
-# senior
+** CareFinder** 🏥  
+A Compassionate Solution for Senior Citizens  
 
-A new Flutter project.
+**CareFinder** is a thoughtfully designed mobile application that assists senior citizens in easily finding essential services, medical support, and community resources. The app bridges the gap between seniors and the help they need, ensuring accessibility and convenience in daily life.  
 
-## Getting Started
+ ✨ **Features ** 
+- **Service Locator** – Find nearby hospitals, pharmacies, and senior care centers.  
+- **Emergency Assistance** – Quick access to emergency contacts and services.  
+- **Community Support** – Connect with volunteers and local support groups.  
+- **Health Reminders** – Set reminders for medications and doctor appointments.  
+- **User-Friendly UI** – Designed for easy navigation and accessibility.  
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# hi
-# CareFinder
+ 🔧 **Tech Stack ** 
+- **Frontend**: Flutter (Dart)  
+- **Backend**: Firebase (Authentication, Firestore)  
+- **Storage**: Cloudinary (for media uploads)  
