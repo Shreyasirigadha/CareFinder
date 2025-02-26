@@ -11,8 +11,7 @@
 
 ## 🔧 **Tech Stack** 
 - **Frontend**: Flutter (Dart)  
-- **Backend**: Firebase (Authentication, Firestore)  
-- **Storage**: Cloudinary (for media uploads)
+- **Design**: Figma
     
 ## 📸 **Screenshots**  
 
