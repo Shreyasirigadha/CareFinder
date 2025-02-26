@@ -1,5 +1,4 @@
-## **CareFinder**🏥  
-A Compassionate Solution for Senior Citizens  
+## **CareFinder**🏥  - A Compassionate Solution for Senior Citizens  
 
 **CareFinder** is a thoughtfully designed mobile application that assists senior citizens in easily finding essential services, medical support, and community resources. The app bridges the gap between seniors and the help they need, ensuring accessibility and convenience in daily life.  
 
